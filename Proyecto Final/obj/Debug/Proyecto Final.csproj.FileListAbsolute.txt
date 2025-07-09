@@ -1,0 +1,14 @@
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\MainWindow.baml
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\MainWindow.g.cs
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\App.g.cs
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final_MarkupCompile.cache
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.g.resources
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\fache\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
